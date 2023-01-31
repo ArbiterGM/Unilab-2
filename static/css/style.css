@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+}
+
+/* text */
+.nav-text {
+  color: black;
+}
+.nav-text:link {
+  text-decoration: none;
+}
+.nav-text:visited {
+  text-decoration: none;
+}
+
+p {
+  font-family: Poppins;
+}
+
+.desc-title {
+  text-align: left;
+  margin: 15px 10px 5px 10px;
+}
+
+.main-text {
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+.btn-text {
+  margin: 6px 0;
+}
+
+.mail-text {
+  font-family: Poppins;
+  color: black;
+  text-decoration: underline;
+}
+
+.contact-text {
+  margin-top: 15px;
+}
+
+/* navigation */
+header {
+  text-align: center;
+}
+
+nav {
+  border-bottom: 1px solid;
+}
+
+ul {
+  margin: 20px 0;
+}
+
+li {
+  display: inline;
+  margin: 0 35px;
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+/* products-section */
+.products {
+  text-align: center;
+  margin: 40px 0;
+  padding: 100px 0;
+}
+
+.container {
+  margin: 35px;
+  display: inline-block;
+}
+
+.product-item {
+  padding: 15px;
+  border: 1px solid black;
+}
+
+.img-desc {
+  padding: 10px;
+}
+
+.button {
+  margin-top: 25px;
+  text-align: right;
+}
+
+.btn {
+  text-align: right;
+  font-size: 15px;
+  padding: 0 20px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+/* about us page */
+.about-company {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.company-info {
+  width: 40%;
+  margin: 5% 0 0 20%;
+}
+
+.company-lorem-text {
+  margin-bottom: 35px;
+}
+
+/* contact us page */
+.contact-us {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.contact-info {
+  text-align: left;
+  margin: 5% 0 0 25%;
+}
